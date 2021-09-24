@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "mappings": "AAmBA,AAAA,EAAE,CAAC;EACC,SAAS,EQND,GAA0B;CROrC;;AAED,AAAA,EAAE,CAAC;EACC,SAAS,EQVD,MAA0B;CRWrC;;AAED,AAAA,EAAE,CAAC;EACC,SAAS,EQdD,OAA0B;CRerC;;AAED,AAAA,EAAE,CAAC;EACC,SAAS,EQlBD,QAA0B;CRmBrC;;AAED,AAAA,EAAE,CAAC;EACC,SAAS,EQtBD,UAA0B;CRuBrC",
+    "sources": [
+        "style.scss",
+        "_modularscale.scss",
+        "modularscale/_vars.scss",
+        "modularscale/_settings.scss",
+        "modularscale/_pow.scss",
+        "modularscale/_strip-units.scss",
+        "modularscale/_sort.scss",
+        "modularscale/_target.scss",
+        "modularscale/_function.scss",
+        "modularscale/_round-px.scss",
+        "modularscale/_respond.scss",
+        "modularscale/_sugar.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
